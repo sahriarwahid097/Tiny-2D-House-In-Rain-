@@ -1,7 +1,7 @@
 # Tiny-2D-House-In-Rain-
 A simple graphical representation of a 2D 'House In Rain' Using OpenGL In Python
 
-FEATURES:-
+#FEATURES:-
 
 # 2D graphical representation of a House in rain.
 
